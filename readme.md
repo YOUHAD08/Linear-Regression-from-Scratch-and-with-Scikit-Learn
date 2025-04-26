@@ -38,19 +38,19 @@ Both projects walk through
 
 1. **Clone the repository**
 
-   ![Clone](img\code_1.png)
+   ![Clone](img/code_1.png)
 
 2. **Create a virtual environment and activate it**
 
-    ![venv](img\code_2.png)
+    ![venv](img/code_2.png)
 
 3. **Install dependencies**
 
-    ![dependencies](img\code_3.png)
+    ![dependencies](img/code_3.png)
 
 4. **Launch Jupyter Notebook**
 
-    ![Jupyter](img\code_4.png)
+    ![Jupyter](img/code_4.png)
 
 5. **Open the .ipynb files and run cells!**
 
